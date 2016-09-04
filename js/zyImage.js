@@ -9,7 +9,7 @@
 				throw ("zyImage - No such method: " + options);
 			}
 		}
-		return this.each(function(){
+		return this.each(function(){  
 			var defaults = {
 					imgList : [],  // 数据列表
 					mainImageWidth  : 700,  // 主图片区域宽度
