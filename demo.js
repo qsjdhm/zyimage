@@ -7,7 +7,7 @@ $(function(){
 	                {"content":"5号图片", "src":"demoImage/5.jpg"},
 	                {"content":"6号图片", "src":"demoImage/6.jpg"},
 	                {"content":"7号图片", "src":"demoImage/7.jpg"},
-	                {"content":"8号图片", "src":"demoImage/8.jpg"}
+	                {"content":"8号图片11", "src":"demoImage/8.jpg"}
 	              ];
 	
 	$("#panImage").zyImage({  
