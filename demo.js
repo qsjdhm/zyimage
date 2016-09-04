@@ -10,7 +10,7 @@ $(function(){
 	                {"content":"8号图片", "src":"demoImage/8.jpg"}
 	              ];
 	
-	$("#panImage").zyImage({
+	$("#panImage").zyImage({   
 		imgList : imgList,        // 数据列表
 //		mainBgColor     : "ffffff", // 主图片区域背景颜色*需要6位
 //		thumBgColor     : "ffffff", // 缩略图片区域背景颜色*需要6位
